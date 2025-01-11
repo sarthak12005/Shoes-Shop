@@ -635,7 +635,7 @@ main .one .one-logos p{
 .three .three-back .tb-down {
     width: 100%;
     height: 70%;
-    background-image: url("/os-essets/h-bg-003.png");
+    background-image: url("/home.html/os-essets/h-bg-003.png");
     background-position: center center;
     background-repeat: no-repeat;
     display: flex;
@@ -832,55 +832,55 @@ main .four .four-container .con-box .box-img:hover  button{
 }
 
 main .four .four-container .con-box #BI-1{
-    background-image: url(/os-essets/mens-shoes-001.jpg);
+    background-image: url("/home.html/os-essets/mens-shoes-001.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .four .four-container .con-box #BI-2{
-    background-image: url(/os-essets/women-shoes-002.jpg);
+    background-image: url(/home.html/os-essets/women-shoes-002.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .four .four-container .con-box #BI-3{
-    background-image: url(/os-essets/women-shoes-003.jpg);
+    background-image: url(/home.html/os-essets/women-shoes-003.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .four .four-container .con-box #BI-4{
-    background-image: url(/os-essets/mens-shoes-002.jpg);
+    background-image: url(/home.html/os-essets/mens-shoes-002.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .four .four-container .con-box #BI-5{
-    background-image: url(/os-essets/mens-shoes-003.jpg);
+    background-image: url(/home.html/os-essets/mens-shoes-003.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .four .four-container .con-box #BI-6{
-    background-image: url(/os-essets/mens-shoes-004.jpg);
+    background-image: url(/home.html/os-essets/mens-shoes-004.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .four .four-container .con-box #BI-7{
-    background-image: url(/os-essets/mens-shoes-005.jpg);
+    background-image: url(/home.html/os-essets/mens-shoes-005.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .four .four-container .con-box #BI-8{
-    background-image: url(/os-essets/women-shoes-003.jpg);
+    background-image: url(/home.html/os-essets/women-shoes-003.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 main .four .four-container .con-box #BI-9{
-    background-image: url(/os-essets/women-shoes-005.jpg);
+    background-image: url(/home.html/os-essets/women-shoes-005.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -950,7 +950,7 @@ main .five .five-container .con-box{
 }
 
 #five-left-box{
-    background-image: url("/os-essets/h-bg-003.jpg");
+    background-image: url("/home.html/os-essets/h-bg-003.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -958,7 +958,7 @@ main .five .five-container .con-box{
 }
 
 #five-right-box{
-    background-image: url("/os-essets/h-bg-004.jpg");
+    background-image: url("/home.html/os-essets/h-bg-004.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1056,19 +1056,19 @@ main .six .six-back .back-left .left-circles .LC{
 }
 
 main .six .six-back .back-left .left-circles #lc-1{
-    background-image: url("/os-essets/recycled-shoe-badge-3.svg");
+    background-image: url("/home.html/os-essets/recycled-shoe-badge-3.svg");
     background-position: center;
     background-size: cover;
 }
 
 main .six .six-back .back-left .left-circles #lc-2{
-    background-image: url("/os-essets/recycled-shoe-badge-2.svg");
+    background-image: url("/home.html/os-essets/recycled-shoe-badge-2.svg");
     background-position: center;
     background-size: cover;
 }
 
 main .six .six-back .back-left .left-circles #lc-3{
-    background-image: url("/os-essets/recycled-shoe-badge-1.svg");
+    background-image: url("/home.html/os-essets/recycled-shoe-badge-1.svg");
     background-position: center;
     background-size: cover;
 }
@@ -1090,7 +1090,7 @@ main .six .six-back .back-right .right-circle{
     height: 300px;
     border-radius: 50%;
     /* background-color: black; */
-    background-image: url("/os-essets/h-bg-005.jpg");
+    background-image: url("/home.html/os-essets/h-bg-005.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -1176,7 +1176,7 @@ main .eight{
 main .eight .eight-back{
     width: 100%;
     height: 600px;
-    background-image: url("/os-essets/h-bg-006.jpg");
+    background-image: url("/home.html/os-essets/h-bg-006.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
